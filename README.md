@@ -19,3 +19,8 @@ SpaCy was used for tokenization, Lemmatization and Removing stopwords and scikit
 # Results
 Logistic regression with hyperparameter tuning out performed all the algorithms with an accuracy of 99%.
 
+# Dataset
+The dataset is available on Kaggle. You can find more information and download the data https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews.
+
+For further details see the notebooks in the repository.
+

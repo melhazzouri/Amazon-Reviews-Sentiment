@@ -1,2 +1,21 @@
 # Amazon Reviews Sentiment Analysis 
-For e-commerce sites and outfitters to maintain their competitiveness and continue to innovate, it is imperative that they foster a dedicated customer base. A highly effective approach in recent years has been the integration of personalized recommendation engines into their platforms or interfaces. To build an effective recommendation engine, it is crucial to grasp the sentiments of the reviews of their products. Amazon is the largerst e-commerce platform in the world and in this project a sentiment analysis was carried out over Amazon Musical Instruments Reviews.
+Sentiment Analysis is a prevalent method of text classification that assesses an incoming message and determines whether the sentiment expressed is positive, negative, or neutral. In today's world, where customers are more vocal about their thoughts and emotions, it is crucial for businesses to have a grasp on these sentiments. It can be challenging for a person to manually examine each statement and determine the underlying emotion. However, with the advancement of technology, companies are now able to automatically analyze customer feedback, be it from surveys or social media interactions, to gain insights into their customers' needs and preferences. This allows them to tailor their products and services accordingly.
+
+![image](https://user-images.githubusercontent.com/39967400/218341491-07a1f964-b130-4a6b-81da-2e4a6fdc3cc8.png)
+
+#  Apporache
+SpaCy was used for tokenization, Lemmatization and Removing stopwords and scikit-learn to build the machine learning models for different batches of data.
+
+1- Logistic Regression
+
+2- Decision Tree
+
+3- K-Nearest Neighbors Algorithm (KNN)
+
+4- Support Vector Classifier (SVC)
+
+5- Naive Bayes
+
+# Results
+Logistic regression with hyperparameter tuning out performed all the algorithms with an accuracy of 99%.
+

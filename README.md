@@ -1,1 +1,2 @@
-# Amazon-Reviews-Sentiment
+# Amazon Reviews Sentiment Analysis 
+For e-commerce sites and outfitters to maintain their competitiveness and continue to innovate, it is imperative that they foster a dedicated customer base. A highly effective approach in recent years has been the integration of personalized recommendation engines into their platforms or interfaces. To build an effective recommendation engine, it is crucial to grasp the sentiments of the reviews of their products. Amazon is the largerst e-commerce platform in the world and in this project a sentiment analysis was carried out over Amazon Musical Instruments Reviews.

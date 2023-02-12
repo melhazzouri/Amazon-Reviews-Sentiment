@@ -3,7 +3,9 @@ Sentiment Analysis is a prevalent method of text classification that assesses an
 
 ![image](https://user-images.githubusercontent.com/39967400/218341491-07a1f964-b130-4a6b-81da-2e4a6fdc3cc8.png)
 
-#  Apporache
+#  Apporach and Results
+The dataset is available on Kaggle. You can find more information and download the data https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews.
+
 SpaCy was used for tokenization, Lemmatization and Removing stopwords and scikit-learn to build the machine learning models for different batches of data.
 
 1- Logistic Regression
@@ -16,11 +18,7 @@ SpaCy was used for tokenization, Lemmatization and Removing stopwords and scikit
 
 5- Naive Bayes
 
-# Results
 Logistic regression with hyperparameter tuning out performed all the algorithms with an accuracy of 99%.
-
-# Dataset
-The dataset is available on Kaggle. You can find more information and download the data https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews.
 
 For further details see the notebooks in the repository.
 

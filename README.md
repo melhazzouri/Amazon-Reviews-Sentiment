@@ -1,4 +1,4 @@
-# Amazon Reviews Sentiment Analysis 
+# Logistic Regression, Decision Tree, KNN, SVC, and Naive Bayes for Amazon Reviews Sentiment Analysis
 Sentiment Analysis is a prevalent method of text classification that assesses an incoming message and determines whether the sentiment expressed is positive, negative, or neutral. In today's world, where customers are more vocal about their thoughts and emotions, it is crucial for businesses to have a grasp on these sentiments. It can be challenging for a person to manually examine each statement and determine the underlying emotion. However, with the advancement of technology, companies are now able to automatically analyze customer feedback, be it from surveys or social media interactions, to gain insights into their customers' needs and preferences. This allows them to tailor their products and services accordingly.
 
 ![image](https://user-images.githubusercontent.com/39967400/218341491-07a1f964-b130-4a6b-81da-2e4a6fdc3cc8.png)
